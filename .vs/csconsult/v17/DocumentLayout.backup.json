@@ -3,8 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\csconsult.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\csconsult.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\domain\\models\\parseddescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\domain\\models\\parseddescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\domain\\models\\csvrows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\domain\\models\\csvrows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\domain\\datarange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\domain\\datarange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\google\\calendarclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\google\\calendarclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\mapping\\eventmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\mapping\\eventmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\parsing\\descriptionparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\parsing\\descriptionparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\utils\\textutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\utils\\textutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\utils\\csvwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\utils\\csvwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\features\\export\\export.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\features\\export\\export.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\utils\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\utils\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\calendars.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\calendars.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\cli\\clioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\cli\\clioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\google\\googleauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\google\\googleauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|c:\\users\\sieg\\codesieg\\csconsult\\csconsult\\token_multi_calendars\\google.apis.auth.oauth2.responses.tokenresponse-user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A367182F-5692-4406-91E8-9E10DF3F22E1}|csconsult\\csconsult.csproj|solutionrelative:csconsult\\token_multi_calendars\\google.apis.auth.oauth2.responses.tokenresponse-user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +78,220 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Utils\\TextUtils.cs",
+              "RelativeDocumentMoniker": "csconsult\\Utils\\TextUtils.cs",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Utils\\TextUtils.cs",
+              "RelativeToolTip": "csconsult\\Utils\\TextUtils.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:07:19.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DescriptionParser.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Parsing\\DescriptionParser.cs",
+              "RelativeDocumentMoniker": "csconsult\\Parsing\\DescriptionParser.cs",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Parsing\\DescriptionParser.cs",
+              "RelativeToolTip": "csconsult\\Parsing\\DescriptionParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:06:58.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Mapping\\EventMapper.cs",
+              "RelativeDocumentMoniker": "csconsult\\Mapping\\EventMapper.cs",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Mapping\\EventMapper.cs",
+              "RelativeToolTip": "csconsult\\Mapping\\EventMapper.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:06:30.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalendarClient.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Google\\CalendarClient.cs",
+              "RelativeDocumentMoniker": "csconsult\\Google\\CalendarClient.cs",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Google\\CalendarClient.cs",
+              "RelativeToolTip": "csconsult\\Google\\CalendarClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:06:16.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GoogleAuth.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Google\\GoogleAuth.cs",
+              "RelativeDocumentMoniker": "csconsult\\Google\\GoogleAuth.cs",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Google\\GoogleAuth.cs",
+              "RelativeToolTip": "csconsult\\Google\\GoogleAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:06:03.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParsedDescription.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Domain\\Models\\ParsedDescription.cs",
+              "RelativeDocumentMoniker": "csconsult\\Domain\\Models\\ParsedDescription.cs",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Domain\\Models\\ParsedDescription.cs",
+              "RelativeToolTip": "csconsult\\Domain\\Models\\ParsedDescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:05:49.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CsvRows.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Domain\\Models\\CsvRows.cs",
+              "RelativeDocumentMoniker": "csconsult\\Domain\\Models\\CsvRows.cs",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Domain\\Models\\CsvRows.cs",
+              "RelativeToolTip": "csconsult\\Domain\\Models\\CsvRows.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:05:19.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CliOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Cli\\CliOptions.cs",
+              "RelativeDocumentMoniker": "csconsult\\Cli\\CliOptions.cs",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Cli\\CliOptions.cs",
+              "RelativeToolTip": "csconsult\\Cli\\CliOptions.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:04:27.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "calendars.txt",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\calendars.txt",
+              "RelativeDocumentMoniker": "csconsult\\calendars.txt",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\calendars.txt",
+              "RelativeToolTip": "csconsult\\calendars.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-02T18:27:42.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataRange.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Domain\\DataRange.cs",
+              "RelativeDocumentMoniker": "csconsult\\Domain\\DataRange.cs",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Domain\\DataRange.cs",
+              "RelativeToolTip": "csconsult\\Domain\\DataRange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:04:52.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "csconsult.csproj",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\csconsult.csproj",
+              "RelativeDocumentMoniker": "csconsult\\csconsult.csproj",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\csconsult.csproj",
+              "RelativeToolTip": "csconsult\\csconsult.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T13:01:27.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CsvWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Utils\\CsvWriter.cs",
+              "RelativeDocumentMoniker": "csconsult\\Utils\\CsvWriter.cs",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Utils\\CsvWriter.cs",
+              "RelativeToolTip": "csconsult\\Utils\\CsvWriter.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:07:42.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Export.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Features\\Export\\Export.cs",
+              "RelativeDocumentMoniker": "csconsult\\Features\\Export\\Export.cs",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Features\\Export\\Export.cs",
+              "RelativeToolTip": "csconsult\\Features\\Export\\Export.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:08:05.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Utils\\FileUtils.cs",
+              "RelativeDocumentMoniker": "csconsult\\Utils\\FileUtils.cs",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Utils\\FileUtils.cs",
+              "RelativeToolTip": "csconsult\\Utils\\FileUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:08:29.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Google.Apis.Auth.OAuth2.Responses.TokenResponse-user",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\token_multi_calendars\\Google.Apis.Auth.OAuth2.Responses.TokenResponse-user",
+              "RelativeDocumentMoniker": "csconsult\\token_multi_calendars\\Google.Apis.Auth.OAuth2.Responses.TokenResponse-user",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\token_multi_calendars\\Google.Apis.Auth.OAuth2.Responses.TokenResponse-user",
+              "RelativeToolTip": "csconsult\\token_multi_calendars\\Google.Apis.Auth.OAuth2.Responses.TokenResponse-user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-08T18:52:05.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "credentials.json",
+              "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\credentials.json",
+              "RelativeDocumentMoniker": "csconsult\\credentials.json",
+              "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\credentials.json",
+              "RelativeToolTip": "csconsult\\credentials.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T17:22:54.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Program.cs",
               "RelativeDocumentMoniker": "csconsult\\Program.cs",
               "ToolTip": "C:\\Users\\Sieg\\CODESIEG\\csconsult\\csconsult\\Program.cs",
               "RelativeToolTip": "csconsult\\Program.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAgwK0BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwB8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T12:28:33.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T12:28:33.682Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
